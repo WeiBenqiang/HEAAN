@@ -8,6 +8,8 @@ HEAAN/run/TestHEAAN
 
 HEAAN/lib/*.a
 
+HEAAN/Example/build
+
 *.d
 
 *.o
