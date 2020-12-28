@@ -10,6 +10,8 @@ HEAAN/lib/*.a
 
 HEAAN/Example/build
 
+HEAAN/Compare/build
+
 *.d
 
 *.o
